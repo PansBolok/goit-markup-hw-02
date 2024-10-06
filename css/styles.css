@@ -125,6 +125,8 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    font-weight: 500;
+    color: #2E2F42;
 }
 
 .team-list-text {
