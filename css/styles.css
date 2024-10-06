@@ -101,6 +101,7 @@ body {
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .advantages-list-title {
@@ -156,6 +157,8 @@ body {
 
 .footer-text {
     color: #F4F4FD;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
 }
 
 .section-team {
