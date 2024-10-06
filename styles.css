@@ -1,0 +1,89 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+}
+
+.logo {
+    color: #2E2F42;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    font-family: "Raleway", sans-serif;
+}
+
+.logo-web {
+    color: #4D5AE5;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    font-family: "Raleway", sans-serif;
+}
+
+.nav-list {
+    line-height: 1.5;
+    font-size: 16px;
+}
+.page-title {
+    color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+}
+
+.page-title-button {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+.section-title {
+    color: #2E2F42;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+}
+
+.advantages-list-title {
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.advantages-list-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.team-list-title {
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.team-list-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.portfolio-list-title {
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.portfolio-list-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.section-background {
+    background-color: #2E2F42;
+}
+
+.footer-text {
+    color: #F4F4FD;
+}
+
+.section-team {
+    background-color: #F4F4FD;
+}
