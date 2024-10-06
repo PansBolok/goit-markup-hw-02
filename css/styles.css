@@ -1,6 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
 }
 
 .logo {
@@ -9,6 +10,8 @@ body {
     font-weight: 700;
     line-height: 1.17;
     font-family: "Raleway", sans-serif;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .logo:hover,
@@ -22,6 +25,8 @@ body {
     font-weight: 700;
     line-height: 1.17;
     font-family: "Raleway", sans-serif;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .nav-list {
@@ -40,7 +45,8 @@ body {
     line-height: 1.5;
     font-size: 16px;
     color: #434455;
-    font-weight: 400;
+    font-weight: 400;   
+    font-style: normal;
 }
 
 .nav-list:hover,
@@ -54,6 +60,7 @@ body {
     font-weight: 700;
     line-height: 1.07;
     text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .page-title-button {
@@ -62,6 +69,9 @@ body {
     line-height: 1.5;
     color: #FFFFFF;
     background-color: #4D5AE5;
+    letter-spacing: 0.04em;
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
 }
 
 .page-title-button:hover,
@@ -75,23 +85,30 @@ body {
     font-weight: 700;
     line-height: 1.11;
     text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .advantages-list-title {
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    font-weight: 500;
 }
 
 .advantages-list-text {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .team-list-title {
     font-size: 20px;
     line-height: 1.2;
     text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .team-list-text {
@@ -104,6 +121,9 @@ body {
 .portfolio-list-title {
     font-size: 20px;
     line-height: 1.2;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .portfolio-list-text {
@@ -122,4 +142,29 @@ body {
 
 .section-team {
     background-color: #F4F4FD;
+}
+
+.link {
+    letter-spacing: 0.02em;
+    color: #2E2F42;    
+}
+
+.link:hover,
+.link:focus {
+    color: #404BBF;
+}
+
+.link-reg {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455
+}
+
+.link-reg:hover,
+.link-reg:focus {
+    color:#404BBF;
+}
+
+.portfolio-list {
+    background-color: #FFFFFF;
 }
